@@ -33,6 +33,22 @@ background-color: rgb(49, 48, 48);
     background-color: aliceblue;
     left:100px; top:300px;
   }
+
+  #conteiner2{
+    position:relative;
+    height:500px; width: 75%;
+    background-color: aliceblue;
+    left:100px; top:500px;
+
+  }
+
+  #conteiner3{
+    position:relative;
+    height:500px; width: 75%;
+    background-color: aliceblue;
+    left:100px; top: 800px;
+
+  }
   
 
   
